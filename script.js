@@ -18,7 +18,4 @@ function calculateMinCost() {
     //alert(newRope);
   }
   document.querySelector("#result").textContent = cost;
-  
-  
-  
 }  
